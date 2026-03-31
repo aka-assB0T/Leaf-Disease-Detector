@@ -103,9 +103,9 @@ Then:
 .
 ├── .gitignore               # Specifies intentionally untracked files to ignore
 ├── main.py                  # Main application entry point, handles UI setup and navigation
-├── preprocessing.py  
-├── train_model.py  
-├── test_model.py  
+├── preprocessing.py         # To process image files and folders categorically
+├── train_model.py           # To build a keras model
+├── test_model.py            # To test a model performance and working citeria (optional)
 ├── README.md                # This README file
 └── requirements.txt         # Lists Python dependencies
 ```

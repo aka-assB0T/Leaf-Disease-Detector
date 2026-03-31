@@ -1,11 +1,11 @@
-# Leaf Disease Detection
+# Leaf Disease Detector
 
 This project demonstrates a Leaf Disease Detection System using a Convolutional Neural Network (CNN). 
 It is built with TensorFlow/Keras, OpenCV, and Tkinter to detect plant leaf diseases from images.
 
 ## Project Description:
 
-This Leaf Disease Detection system utilizes a Convolutional Neural Network (CNN) to predict plant leaf diseases. It was built using TensorFlow/Keras, OpenCV, and Tkinter. The system allows users to upload leaf images, enhance them, and predict whether the leaf is infected with diseases like Blight, Rust, Powdery Mildew, etc. The model is trained using the PlantVillage dataset from Kaggle, which includes images of various leaf diseases.
+This Leaf Disease Detector system utilizes a Convolutional Neural Network (CNN) to predict plant leaf diseases. It was built using TensorFlow/Keras, OpenCV, and Tkinter. The system allows users to upload leaf images, enhance them, and predict whether the leaf is infected with diseases like Blight, Rust, Powdery Mildew, etc. The model is trained using the PlantVillage dataset from Kaggle, which includes images of various leaf diseases.
 
 ## Motivation
 
@@ -59,8 +59,8 @@ Follow these steps to get the project up and running on your local machine:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/aka-assB0T/leaf_disease_detection.git
-    cd leaf_disease_detection
+    git clone https://github.com/aka-assB0T/leaf_disease_detector.git
+    cd leaf_disease_detector
     ```
 
 2.  **Create a virtual environment** (recommended):
